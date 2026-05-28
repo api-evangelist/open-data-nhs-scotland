@@ -1,0 +1,32 @@
+aid: open-data-nhs-scotland
+name: Open Data NHS Scotland
+description: "Medical reference data and statistics by Public Health Scotland"
+url: https://www.opendata.nhs.scot
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Health"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Health
+  - Public APIs
+apis:
+  - name: Open Data NHS Scotland
+    description: "Medical reference data and statistics by Public Health Scotland"
+    humanURL: https://www.opendata.nhs.scot
+    baseURL: https://www.opendata.nhs.scot
+    tags:
+      - Health
+    properties:
+      - type: Documentation
+        url: https://www.opendata.nhs.scot
+common:
+  - type: Website
+    url: https://www.opendata.nhs.scot
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
