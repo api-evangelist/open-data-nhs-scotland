@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://www.opendata.nhs.scot
 common:
+  - type: DomainSecurity
+    url: security/open-data-nhs-scotland-domain-security.yml
   - type: Website
     url: https://www.opendata.nhs.scot
   - type: PublicAPIsListing
