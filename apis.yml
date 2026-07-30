@@ -1,4 +1,16 @@
 aid: open-data-nhs-scotland
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/open-data-nhs-scotland.png
 name: Open Data NHS Scotland
 description: "Medical reference data and statistics by Public Health Scotland"
 url: https://www.opendata.nhs.scot
