@@ -39,7 +39,6 @@ apis:
   - name: Open Data NHS Scotland
     description: "Medical reference data and statistics by Public Health Scotland"
     humanURL: https://www.opendata.nhs.scot
-    baseURL: https://www.opendata.nhs.scot
     tags:
       - Health
     properties:
